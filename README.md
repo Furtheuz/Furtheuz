@@ -49,4 +49,4 @@ I'm a fullstack developer from Indonesia. Starting from being a backend develope
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [Furtheuz](https://github.com/yourusername)
