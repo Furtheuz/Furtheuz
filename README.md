@@ -57,7 +57,7 @@ I love learning new things, experimenting with tech, and sometimes I write artic
 ---
 
 ## 🏆 GitHub Stats & Trophies
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Furtheuz&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 ![Stats](https://github-readme-stats.vercel.app/api?username=Furtheuz&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furtheuz&layout=compact&theme=dark)
